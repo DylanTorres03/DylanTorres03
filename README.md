@@ -1,104 +1,82 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Dylan%20Jiménez&fontSize=70&fontColor=ffffff&animation=fadeIn&subText=Full%20Stack%20Developer%20%7C%20SaaS%20Founder%20%7C%20Systems%20Engineer&subFontSize=21&subFontColor=8b949e" width="100%" />
-</p>
-
-## Hi there! I'm Dylan Jiménez 👋
-
-I am a product-minded **Full Stack Developer** and **Information Systems Engineering Graduate** based in Costa Rica. I don't just write code; I design, architect, and ship high-impact digital solutions that eliminate operational chaos and scale in production.
-
-- 🎓 **Academic Excellence:** Graduated with an impressive cumulative GPA of **93/100** from Universidad Latina de Costa Rica.
-- 🚀 **SaaS Builder:** Founder & Lead Engineer at **Rutio** (rutiocr.com), managing live fleets in Costa Rica.
-- ⚙️ **Production Veteran:** Experienced in shipping enterprise-grade cloud architectures (AWS/Cloudflare) and contributing to fast-paced international US teams.
-- ⚡ **Vibe:** Fast learner, detail-oriented on UI/UX layouts, and obsessed with software performance.
-
----
-
-### 🛠️ My Tech Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Backend</strong></td>
-    <td align="center" width="25%"><strong>Databases & Cloud</strong></td>
-    <td align="center" width="25%"><strong>Mobile & Testing</strong></td>
-  </tr>
-  <tr>
-    <td valign="top">
-      • React.js / Next.js 14<br>
-      • TypeScript / JavaScript<br>
-      • Tailwind CSS / HTML5<br>
-      • Responsive Web Layouts
-    </td>
-    <td valign="top">
-      • Node.js / Express<br>
-      • Python / FastAPI<br>
-      • Ruby on Rails<br>
-      • RESTful APIs
-    </td>
-    <td valign="top">
-      • PostgreSQL / Supabase<br>
-      • MongoDB / NoSQL<br>
-      • AWS (Lambda, S3, API GW)<br>
-      • Cloudflare / DevOps
-    </td>
-    <td valign="top">
-      • React Native / Expo<br>
-      • RSpec Testing Framework<br>
-      • Git / GitHub Advanced<br>
-      • Automated Web Scraping
-    </td>
-  </tr>
-</table>
-
----
-
-### 📂 Featured Systems in Production
-
-<details open>
-<summary><strong>🚗 Rutio – Fleet Management & Live Tracking SaaS (rutiocr.com)</strong></summary>
-<br>
-A robust, multi-tenant B2B logistics platform designed from scratch to manage private transport operations.
-<ul>
-  <li><strong>Architecture:</strong> Next.js 14, TypeScript, Supabase, PostgreSQL, Tailwind CSS, and Google Maps API.</li>
-  <li><strong>Mobile:</strong> Built a native driver application using React Native and Expo for route execution.</li>
-  <li><strong>Key Achievements:</strong> Engineered real-time live GPS tracking pipelines and single-use, instant-access map links for passengers, removing the friction of installation. Built full multi-tenant role permissions.</li>
-</ul>
-</details>
-
-<details>
-<summary><strong>🔧 Corporación 2001 – ERP & Workshop Management Web Platform</strong></summary>
-<br>
-A comprehensive internal system that fully automated chaotic pen-and-paper operational workflows.
-<ul>
-  <li><strong>Architecture:</strong> Node.js, Express, React, PostgreSQL (RDS), and robust JWT authentication/security.</li>
-  <li><strong>Cloud & Security:</strong> Fully deployed on AWS (S3 for dynamic asset uploads, serverless Lambda, API Gateway) and optimized via Cloudflare caching layers.</li>
-  <li><strong>Key Achievements:</strong> Served 21 concurrent corporate users processing 400+ complex service tickets for tier-1 enterprises like Bimbo and ICE. Features a built-in BI dashboard and automated registry web scrapers.</li>
-</ul>
-</details>
-
-<details>
-<summary><strong>🤖 Intelligent CV Chatbot – AI Semantic Resume Parser</strong></summary>
-<br>
-An AI-powered local indexing automation tool that accelerates candidate sourcing through data parsing.
-<ul>
-  <li><strong>Architecture:</strong> Python, FastAPI, Hugging Face Models, ChromaDB Vector Space, and OpenAI GPT APIs.</li>
-  <li><strong>Key Achievements:</strong> Implemented a Retrieval-Augmented Generation (RAG) framework capable of running complex natural language queries with deep typo tolerance, processing multi-file PDF collections instantly.</li>
-</ul>
-</details>
-
----
-
-### 📊 Coding Activity & Metrics
-
-> 📈 **Over 730+ contributions in the last year**, actively building across production repositories like `rutio`, `taller-2001-backend`, `taller-2001-frontend`, and `rutio-mobile`.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DylanTorres03&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Dylan's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanTorres03&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Dylan%20Jiménez&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DylanTorres03&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🚀;SaaS+Founder+📱;Systems+Engineer+⚙️;Product-Driven+Developer+💻" alt="Typing SVG" />
+  </a>
+</p>
+
+## About Me 👋
+
+I am a product-minded **Full Stack Developer** and **Information Systems Engineering Graduate** based in Costa Rica. I specialize in designing, architecting, and shipping high-impact, serverless cloud platforms and real-time distributed applications that convert code into real business metrics.
+
+- 🎓 **Academic Excellence:** Graduated with a cumulative GPA of **93/100** from Universidad Latina de Costa Rica.
+- 🚀 **SaaS Builder:** Founder & Lead Engineer at [Rutio](https://rutiocr.com), optimizing live private transport logistics.
+- ⚙️ **Production Veteran:** Hands-on experience shipping production-ready systems deployed on AWS cloud stacks.
+- ⚡ **Vibe:** Highly autonomous, clean UI/UX enthusiast, and obsessed with writing performant software layers.
+
+---
+
+### 🛠️ Technology Stack & Toolbelt
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-1C1C1E?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 📂 Dynamic Production Ecosystem
+
+#### 🚗 [Rutio](https://rutiocr.com) — Fleet Management SaaS 
+* Multi-tenant B2B platform built from scratch to streamline commercial fleet logistics.
+* **Stack:** Next.js 14, TypeScript, Supabase (PostgreSQL), Tailwind CSS, Google Maps API, React Native & Expo.
+* **Impact:** Implemented a zero-friction live GPS pipeline for real-time asset monitoring and instant multi-tenant credential controls.
+
+#### 🔧 [Corporación 2001](https://corporacion2001.com) — Automotive ERP Web Platform
+* Enterprise internal system designed to completely replace analog workflows for automotive maintenance.
+* **Stack:** Node.js, Express, React, PostgreSQL (RDS), Amazon S3, AWS Lambda, API Gateway & Cloudflare Caching.
+* **Impact:** Powers 21 active concurrent operators handling 400+ complex repair work orders for major corporations like Bimbo and ICE.
+
+#### 🌐 [GoTransfers Costa Rica](https://www.gotransferscr.com) — Private Transportation Platform
+* High-conversion web platform built for a private transport firm in Costa Rica to automate booking requests.
+* **Stack:** React, Tailwind CSS, Optimization workflows for localized quote processing, client reservation funnels, and fleet galleries.
+
+#### 🤖 Intelligent CV Chatbot — AI Semantic Parser
+* Semantic document indexer running a Retrieval-Augmented Generation (RAG) loop to audit complex profiles.
+* **Stack:** Python, FastAPI, Hugging Face NLP Models, ChromaDB Vector database & OpenAI GPT-4 APIs.
+
+---
+
+### 📊 Real-Time Git Performance
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=DylanTorres03&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Dylan's GitHub Stats" height="185px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DylanTorres03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
