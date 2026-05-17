@@ -6,7 +6,7 @@
 
 I am a product-minded **Full Stack Developer** and **Information Systems Engineering Graduate** based in Costa Rica. I don't just write code; I design, architect, and ship high-impact digital solutions that eliminate operational chaos and scale in production.
 
-- 🎓 **Academic Excellence:** Recently graduated with an impressive cumulative GPA of **93/100**.
+- 🎓 **Academic Excellence:** Graduated with an impressive cumulative GPA of **93/100** from Universidad Latina de Costa Rica.
 - 🚀 **SaaS Builder:** Founder & Lead Engineer at **Rutio** (rutiocr.com), managing live fleets in Costa Rica.
 - ⚙️ **Production Veteran:** Experienced in shipping enterprise-grade cloud architectures (AWS/Cloudflare) and contributing to fast-paced international US teams.
 - ⚡ **Vibe:** Fast learner, detail-oriented on UI/UX layouts, and obsessed with software performance.
@@ -90,13 +90,15 @@ An AI-powered local indexing automation tool that accelerates candidate sourcing
 
 ### 📊 Coding Activity & Metrics
 
+> 📈 **Over 730+ contributions in the last year**, actively building across production repositories like `rutio`, `taller-2001-backend`, `taller-2001-frontend`, and `rutio-mobile`.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DylanTorres03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Dylan's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanTorres03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DylanTorres03&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Dylan's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanTorres03&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DylanTorres03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DylanTorres03&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
