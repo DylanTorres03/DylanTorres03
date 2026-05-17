@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Dylan%20Jiménez&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+🚀;SaaS+Founder+📱;Systems+Engineer+⚙️;Product-Driven+Developer+💻" alt="Typing SVG" />
-  </a>
-</p>
-
 ## About Me 👋
 
 I am a product-minded **Full Stack Developer** and **Information Systems Engineering Graduate** based in Costa Rica. I specialize in designing, architecting, and shipping high-impact, serverless cloud platforms and real-time distributed applications that convert code into real business metrics.
@@ -71,9 +65,7 @@ I am a product-minded **Full Stack Developer** and **Information Systems Enginee
 
 ### 📊 Real-Time Git Performance
 
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=DylanTorres03&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Dylan's GitHub Stats" height="185px" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DylanTorres03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
