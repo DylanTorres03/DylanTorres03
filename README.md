@@ -4,12 +4,11 @@
 
 ## About Me 👋
 
-I am a product-minded **Full Stack Developer** and **Information Systems Engineering Graduate** based in Costa Rica. I build full-stack applications and SaaS products used by real users, focusing on performance, scalability, and clean user experiences.
+Full Stack Developer based in Costa Rica 🇨🇷
 
-- 🎓 **Academic Excellence:** Graduated with a cumulative GPA of **93/100** from Universidad Latina de Costa Rica.
-- 🚀 **SaaS Builder:** Founder & Lead Engineer at [Rutio](https://rutiocr.com), optimizing live private transport logistics.
-- ⚙️ **Production Veteran:** Hands-on experience shipping production-ready systems deployed on AWS cloud stacks.
-- ⚡ **Vibe:** Highly autonomous, clean UI/UX enthusiast, and obsessed with writing performant software layers.
+- 🚀 Built and deployed a SaaS (Rutio) used in real transport operations  
+- ⚙️ Experience building production systems with AWS and modern web stacks  
+- 🧠 Focused on building scalable, real-world applications  
 
 ---
 
